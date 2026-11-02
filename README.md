@@ -5,7 +5,7 @@
 
 BheedIQ predicts crowd crushes **10-15 minutes before they happen** and guides people to safety. It runs on a live crowd simulator, so there is nothing to install: open it in a browser and it works.
 
-### 🔗 [Live Demo](https://bhumikasadana.github.io/BheedIq/)
+### 🔗 [Live Demo](https://bheediq.vercel.app/)
 
 ---
 
